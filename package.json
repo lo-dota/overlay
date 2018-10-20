@@ -1,0 +1,16 @@
+{
+  "name": "lo-dota-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Luchanso/lo-dota-helper.git",
+  "author": "Oleg Loutchansky <luchansodev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "electron": "^3.0.5",
+    "jest": "^23.6.0"
+  }
+}

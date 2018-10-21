@@ -13,7 +13,7 @@ function createWindow() {
   // engine_no_focus_sleep 0
   // Steam/steamapps/common/dota 2 beta/game/dota/cfg/machine_convars.vcfg
   mainWindow = new BrowserWindow(WINDOW_CONFIG);
-  mainWindow.loadURL('https://ya.ru');
+  mainWindow.loadURL('https://lo-dota.github.io/ui/');
   mainWindow.setAlwaysOnTop(true);
 
   mainWindow.on('closed', () => {

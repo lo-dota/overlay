@@ -10,7 +10,7 @@
     "test": "eslint src && jest"
   },
   "dependencies": {
-    "dotenv": "^6.1.0",
+    "dotenv": "^7.0.0",
     "electron": "^4.0.0",
     "jest": "^23.6.0"
   },

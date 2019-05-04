@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "dotenv": "^6.1.0",
-    "electron": "^4.0.0",
+    "electron": "^5.0.0",
     "jest": "^23.6.0"
   },
   "devDependencies": {
